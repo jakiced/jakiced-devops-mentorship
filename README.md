@@ -1,10 +1,10 @@
 # Homework 2
 
-Create new branch called: week-2-bandit-labs from your current main branch. - [x]
+Create new branch called: week-2-bandit-labs from your current main branch. ✔️
 
-Add new dir called week-2 inside that dir you should create file called bash-notes.md. - [x]
+Add new dir called week-2 inside that dir you should create file called bash-notes.md. ✔️
 
-File bash-notes.md should contain minimum all commands executed durring this task. Recomended is to add your own comments about each executed command. - [x]
+File bash-notes.md should contain minimum all commands executed durring this task. Recomended is to add your own comments about each executed command. ✔️
 
 Do the following:
 
