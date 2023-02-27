@@ -1,14 +1,12 @@
 # Homework 2
 
-Create new branch called: week-2-bandit-labs from your current main branch.
+Create new branch called: week-2-bandit-labs from your current main branch. [x]
 
-Add new dir called week-2 inside that dir you should create file called bash-notes.md.
+Add new dir called week-2 inside that dir you should create file called bash-notes.md. [x]
 
-File bash-notes.md should contain minimum all commands executed durring this task. Recomended is to add your own comments about each executed command.
+File bash-notes.md should contain minimum all commands executed durring this task. Recomended is to add your own comments about each executed command. [x]
 
-For example: $ cat <file> - #koristimo za ispis sadrzaja fajla
-
-For actual task execution you need to do following:
+Do the following:
 
 Access Wargames labs available on the following link: https://overthewire.org/wargames/ and on level Bandit solve tasks up to level 10
 After completing each level take screenshoot of your screen as a confirmation of successfully completed level
